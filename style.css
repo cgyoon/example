@@ -1,0 +1,97 @@
+header {
+	background: black;
+	border-radius: 100px;
+	text-align: center;
+}
+
+.one {
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	background-color: indianred;
+	width: 200px;
+	height: 50px;
+	border-radius: 100px;
+	background: radial-gradient(yellow,pink);
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+.two {
+	position: absolute;
+	top: 200px;
+	left: 300px;
+	background-color: lightgreen;
+	width: 200px;
+	height: 50px;
+	border-radius: 100px;
+	background: radial-gradient(pink,lightskyblue);
+	letter-spacing: 3px;
+	text-align: center;
+}
+
+h1 {
+	background-color: lightcoral;
+	text-align: center;
+	font-size: 5vw;
+	border-radius: 100px;
+}
+
+h2 {
+	background-color: white;
+	border: 2px orangered;
+	text-align: center;
+	border-radius: 100px;
+}
+
+section {
+	border: 2px solid mistyrose;
+	width: 600px;
+}
+
+article {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	letter-spacing: 1.5px;
+	word-break: keep-all;
+	background: radial-gradient(pink,white);
+	margin: 50px;
+	border-radius: 100px;
+}
+
+p {
+	background-color: pink;
+	width: 600px;
+	height: 150px;
+}
+
+.a1 {
+	background: radial-gradient(lightgreen,white);
+	border-radius: 100px;
+}
+
+.b1{
+	background: radial-gradient(lightgreen,white);
+	border-radius: 100px;
+}
+
+.c1 {
+	background: radial-gradient(lightgreen,white);
+}
+
+.d1 {
+	background-color: greenyellow;
+	text-align: center;
+	border-radius: 100px;
+}
+
+.e1 {
+	background: radial-gradient(lightcoral,white) ;
+	border-radius: 100px;
+}
+
+footer {
+	text-align: center;
+}
